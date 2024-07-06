@@ -43,7 +43,6 @@
 ![image](fbdc16e4.jpeg)
 
 </details>
-<br>
 
 # not quite 1080p
 
