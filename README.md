@@ -8,6 +8,7 @@
 ![image](spitfire_flames.jpeg)
 ![image](launch.jpeg)
 ![image](reentry.jpeg)
+![image](strike_warrior.jpeg)
 ![image](00724244.jpeg)
 ![image](0c4161b9.jpeg)
 ![image](12eecf33.jpeg)
@@ -67,5 +68,10 @@
 ![image](nothd/d60010fb.jpeg)
 ![image](nothd/f01d7eab.jpeg)
 ![image](nothd/faa89e08.jpeg)
+![image](nothd/8209203239.jpeg)
+![image](nothd/8535506925.jpeg)
+![image](nothd/8535507035.jpeg)
+![image](nothd/8536613376.jpeg)
+![image](nothd/14364727741.jpeg)
 
 </details>
